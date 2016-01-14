@@ -14,7 +14,7 @@ public void setup()
 }  
 public void draw()  
 {   
-	//not needed for this assignment
+    //not needed for this assignment
 }  
 public boolean isPrime(double dNum)  
 {   
